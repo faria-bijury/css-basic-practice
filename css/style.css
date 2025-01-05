@@ -1,0 +1,46 @@
+h1{
+	color: red;
+/*	background-color: blue;*/
+}
+p{
+	font-size: 22px;
+	background-color: #eee;
+
+}
+h3{
+	border: 5px solid blue;
+	border-radius: 10px;
+	margin: 10px 15px 25px 20px;
+}
+
+h4{
+	border: 5px dotted blue;
+	border-bottom: 2px solid red;
+}
+.bg{
+    padding: 70px;
+    background-color: blue;
+    border: 1px solid #4CAF50;
+}
+h5{
+	color: green;
+	height: 200px;
+  	width: 50%;
+  	background-color: powderblue;
+}
+.box{
+	height: 200px;
+  	width: 50%;
+  	background-color: powderblue;
+}
+.head1{
+	color: powderblue;
+	border: 2px solid blue;
+	border-radius: 50px;
+
+}
+
+.margin{
+	margin: 10px 15px 25px 20px;
+	border: 1px dashed black;
+}
